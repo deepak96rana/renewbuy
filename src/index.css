@@ -11,3 +11,67 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.popup{
+  background: rgba(0,0,0,0.6);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  
+}
+.popup-content{
+  height: 380px;
+  width: 350px;
+  background: white;
+  padding: 20px;
+  position: relative;
+  padding: 0px;
+}
+.pop{
+  background-color: blue;
+  width: 100%;
+  height: 30px;
+  text-align: left;
+  padding-top: 10px;   
+}
+.close{
+  width: 10%;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  cursor: pointer;
+}
+.first{
+  margin-top: 20px;
+  color: black;
+  margin-left: 20px;
+}
+.second{
+ 
+  color: black;
+  margin-left: 20px;
+}
+.third{
+  
+  color: black;
+  margin-left: 20px;
+}
+.fourth{
+  
+  color: black;
+  margin-left: 20px;
+}
+.button2{
+  background: purple;
+  padding: 5px 5px;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 20px;
+  cursor: pointer;
+  
+}
