@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/renewbuy/static/css/main.c9d5d07c.css",
+    "main.js": "/renewbuy/static/js/main.d4f918c4.js",
+    "static/js/787.97a945da.chunk.js": "/renewbuy/static/js/787.97a945da.chunk.js",
+    "index.html": "/renewbuy/index.html",
+    "main.c9d5d07c.css.map": "/renewbuy/static/css/main.c9d5d07c.css.map",
+    "main.d4f918c4.js.map": "/renewbuy/static/js/main.d4f918c4.js.map",
+    "787.97a945da.chunk.js.map": "/renewbuy/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d5d07c.css",
+    "static/js/main.d4f918c4.js"
+  ]
+}
